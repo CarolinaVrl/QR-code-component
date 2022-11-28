@@ -43,7 +43,7 @@ body{
     width: 288px;
     height: 288px;
     border-radius: 10px;
-    background: url(/qr-code-component-main/images/image-qr-code.png);
+    background: url(/qr-code-component-main/qr-code-component-main/images/image-qr-code.png);
     background-size: cover;
     margin: 15px auto;
 
